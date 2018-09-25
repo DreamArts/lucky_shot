@@ -1,0 +1,7 @@
+source/__pycache__/
+source/logs/log*
+source/models/model*
+source/reaction/user*
+source/relation/user*
+.env
+data.json
